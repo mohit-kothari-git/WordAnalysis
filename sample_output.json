@@ -1,0 +1,129 @@
+[
+    {
+      "Word": "the",
+      "Occurrence Count": 79809,
+      "Synonyms": [
+        "this",
+        "that",
+        "those"
+      ],
+      "POS": "determiner"
+    },
+    {
+      "Word": "of",
+      "Occurrence Count": 40024,
+      "Synonyms": [
+        "out of",
+        "from",
+        "for",
+        "relation",
+        "concerning",
+        "regarding",
+        "respecting"
+      ],
+      "POS": "preposition"
+    },
+    {
+      "Word": "and",
+      "Occurrence Count": 38312,
+      "Synonyms": [
+        "as",
+        "or",
+        "both",
+        "even",
+        "also",
+        "while",
+        "moreover",
+        "so",
+        "whereas",
+        "with"
+      ],
+      "POS": "conjunction"
+    },
+    {
+      "Word": "to",
+      "Occurrence Count": 28765,
+      "Synonyms": [
+        "up to",
+        "so that",
+        "with",
+        "for",
+        "that",
+        "before",
+        "in order",
+        "allow",
+        "which",
+        "ere",
+        "afore",
+        "closed"
+      ],
+      "POS": "preposition"
+    },
+    {
+      "Word": "in",
+      "Occurrence Count": 22023,
+      "Synonyms": [
+        "within",
+        "into",
+        "at",
+        "throughout",
+        "through",
+        "when",
+        "inch",
+        "inward"
+      ],
+      "POS": "preposition"
+    },
+    {
+      "Word": "a",
+      "Occurrence Count": 21124,
+      "Synonyms": [
+        "one",
+        "when",
+        "each",
+        "rather",
+        "an"
+      ],
+      "POS": "determiner"
+    },
+    {
+      "Word": "that",
+      "Occurrence Count": 12512,
+      "Synonyms": [
+        "who",
+        "what",
+        "this",
+        "to",
+        "which",
+        "of which",
+        "the",
+        "as",
+        "so that",
+        "whereby",
+        "how",
+        "far",
+        "ever"
+      ],
+      "POS": "conjunction"
+    },
+    {
+      "Word": "he",
+      "Occurrence Count": 12401,
+      "Synonyms": [],
+      "POS": "unknown"
+    },
+    {
+      "Word": "was",
+      "Occurrence Count": 11410,
+      "Synonyms": [],
+      "POS": "unknown"
+    },
+    {
+      "Word": "it",
+      "Occurrence Count": 10681,
+      "Synonyms": [
+        "this"
+      ],
+      "POS": "pronoun"
+    }
+  ]
